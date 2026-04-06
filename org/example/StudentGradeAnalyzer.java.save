@@ -1,0 +1,7 @@
+package org.example;
+
+public class StudentGradeAnalyzer {
+    public static void main(String[] args) {
+        System.out.println("Hello, Grade Analyzer!");
+    }
+}
